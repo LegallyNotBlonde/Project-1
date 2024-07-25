@@ -5,7 +5,8 @@ This project examined the performance of top AI companies in comparison to the S
 
 ###  Link to the Power Point Presentation with all plots
 https://docs.google.com/presentation/d/1MZZu5sHH3Ji32wZJKGbBLBBZm3hhA7Cn/edit?usp=drive_web&ouid=111933235987222785321&rtpof=true
-Data Sources
+
+#### Data Sources
 Top 10 AI companies kaggle dataset 1990 through present as selected by Forbes S&P 500 and Dow Jones index ETF funds gathered through alphavantage.co API
 
 ## Research Questions and Hypotheses
@@ -27,6 +28,12 @@ We focused on average stock prices, daily and cumulative returns, and volatility
 * Bar and Line Graphs: Displayed the average cumulative and daily returns for AI companies and indices.
 * Volatility Analysis: Showed daily returns with error bars indicating volatility.
 * Violin Plots: Illustrated the distribution of returns to support ANOVA results.
+##### Below some of the plots. Please find more graphs in the presenation (see the link above).
+![
+    
+](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 ## Statistical Testing
 * Repeated Measures ANOVA: Found no significant differences between AI companies and indices, failing to reject the null hypothesis.
@@ -40,12 +47,13 @@ This comprehensive study underscores that while specific AI companies may occasi
 Notably, eight of the ten AI companies analyzed are listed in the S&P 500, with the exception of those represented by the tickers "PATH" and "AI."
 Addtional information of the materials included in this project
 
-![alt text](image.png)
+### File structure of the repository
+![alt text](image-2.png)
 
-Participants of the project:
+Project Partners:
 * Nathan Sheibley
+* Olga Sabrina Linden
+* Melissa Glover
 * Krissy Knight
 * Dante Parcon
-* Olga Sabrina Linden
 * Andrea Moncada
-* Melissa Glover
